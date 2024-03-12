@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/GlA01ixBa5RsJ2Mect/giphy.gif" width="350"/> 
+    <img src="https://media.giphy.com/media/x7zOaeZHee5RVSVw5T/giphy.gif" width="350"/> 
     <h1 align="center"> PROJECT: DATA WRANGLING AND EXPLORATORY DATA ANALYSIS </h1>
 </div>
 
