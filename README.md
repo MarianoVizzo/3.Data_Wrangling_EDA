@@ -7,8 +7,9 @@
 
 ### A.1. CONTEXT
 
-- *Udemy* (www.udemy.com) is an online marketplace that offers distance learning courses on various topics related to technology and business. The site operates as a marketplace where instructors can publish the courses they have developed and earn money when any *Udemy* student purchases them.
-- The number of *Udemy* courses has grown rapidly due to the success of distance education. However, the courses have had very diverse demands; some have been bestsellers while others have had so few students that they do not justify the investment made in them.
+- Kavak es una empresa que se dedica a la compra y venta de autos usados en el mercado. Su diferencia principal con sus competidores es que su proceso de compra de autos usados está automatizado en su página web permitiéndole a los usuarios realizar sus operaciones y explorar las opciones fácilmente sin moverse de su casa.
+
+- La compañía dispone de un conjunto de datos históricos que incluye información y características de los automóviles, con un registro total de 240 filas y 26 variables.
 
 ### A.2. PROJECT OBJETIVE
 - **The ultimate goal is to predict which of the courses to be launched in 2023 will be *bestsellers*, through the analysis of data from courses published in Spanish between 2012 and 2022.**
