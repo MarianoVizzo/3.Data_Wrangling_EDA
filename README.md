@@ -7,7 +7,7 @@
 
 ### A.1. CONTEXT
 
-- Kavak is a company that buys and sells used cars on the market. Its main difference from its competitors is that its used car buying process is automated on its website, allowing users to make their trades and explore options easily without leaving their home.
+- *Kavak* is a company that buys and sells used cars on the market. Its main difference from its competitors is that its used car buying process is automated on its website, allowing users to make their trades and explore options easily without leaving their home.
 
 - The company has a historical dataset that includes information and characteristics of the cars, with a total record of 240 rows and 26 variables.
 
@@ -18,7 +18,8 @@
 
 ### B.1. HOW TO READ THE DOCUMENTATION? 
 
-- Read the file named "Project_Final_Udemy.ipynb" where you can visualize the Python code in Google Colaboratory.
+- Read the file named "Data_Wrangling_y_EDA.ipynb" where you can visualize the Python code in Google Colaboratory.
+- 
 - Within the Python code, you will find an organized outline with interpretations and analyses developed.
   
 ### B.2. DOCUMENTATION OUTLINE 
