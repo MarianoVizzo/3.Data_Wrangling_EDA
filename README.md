@@ -2,7 +2,7 @@
     <img src="https://giphy.com/embed/GlA01ixBa5RsJ2Mect" width="480" height="352" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JaguarCars-jaguar-cars-e-pace-GlA01ixBa5RsJ2Mect" width="350"/> 
     <h1 align="center"> PROJECT: DATA WRANGLING AND EXPLORATORY DATA ANALYSIS </h1>
 </div>
-<iframe src=">via GIPHY</a></p>
+
 ## A. DATASET INFORMATION
 
 ### A.1. CONTEXT
