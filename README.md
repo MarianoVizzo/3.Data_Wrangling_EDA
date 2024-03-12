@@ -52,5 +52,5 @@
 
 #### 5. Scipy Stats
 
-`scipy.stats`
+`from scipy import stats`
 
