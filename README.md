@@ -54,7 +54,3 @@
 
 `scipy.stats`
 
-
-
-price                float64
-dtype: object
