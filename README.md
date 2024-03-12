@@ -1,9 +1,7 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd5YzZzNDZ3cDJsZnN0MXBldm00bWo0cTBmbGlpOGFxczIyejB3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WuXMlNW5ii2cmRSzyF/giphy.gif" width="350" /> 
+    <img src="ttps://media.giphy.com/media/GlA01ixBa5RsJ2Mect/giphy.gif" width="350" /> h1
     <h1 align="center"> PROJECT: DATA WRANGLING AND EXPLORATORY DATA ANALYSIS </h1>
 </div>
-
-
 
 ## A. DATASET INFORMATION
 
