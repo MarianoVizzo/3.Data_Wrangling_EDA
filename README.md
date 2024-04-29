@@ -5,7 +5,7 @@
 
 ## A. DATASET INFORMATION
 
-### A.1. CONTEXT
+### A.1. CONTXT
 
 - *Kavak* is a company that buys and sells used cars on the market. Its main difference from its competitors is that its used car buying process is automated on its website, allowing users to make their trades and explore options easily without leaving their home.
 - The company has a historical dataset that includes information and characteristics of the cars, with a total record of 240 rows and 26 variables.
